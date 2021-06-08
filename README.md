@@ -46,5 +46,9 @@
     + Newsletter Problem Reports
 - [x] Migrate System Increment IDs (EAV Entity Store)
 
+### Compatiblity:
+    + Magento CE 1.x: 1.6.x, 1.7.x, 1.8.x, 1.9.x
+    + Magento CE 2.0.0 and later
+
 
 ** Please contact magento.spo1@gmail.com if you need any support. **
